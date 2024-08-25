@@ -1,0 +1,100 @@
+body {
+    background-image: url(black1.jpeg);
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    text-align: center;
+   
+  }
+  
+h2 {
+  color: white;
+}
+
+#aaa {
+  
+  color: rgb(255, 255, 255);
+  margin: 5px;
+  width: 100%;
+  width: auto;
+  padding: 15px;
+
+}
+
+p {
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+  
+}
+ 
+ 
+  #password-form {
+    background-color: #e7e7e7;
+    margin: 20px auto;
+    width: 48%;
+    padding: 25px;
+    border:  #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 65px black;
+  }
+  
+  #password {
+    width: 85%;
+    height: 40px;
+    padding: 10px;
+    font-size: 18px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+  }
+  
+  #submit {
+    margin: 15px;
+    background-color: #4CAF50;
+    color: #fff;
+    height: auto;
+    padding: 10px 20px;
+    border: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+
+  #Drive {
+    margin: 15px;
+    background: linear-gradient(to top right, rgb(0, 209, 17),rgb(14, 94, 38));
+    color: #fff;
+    width: 135px;
+    height: 35px;
+    padding: 15 30px;
+    border: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  #submit:hover {
+    background-color: #3e8e41;
+  }
+  
+
+  #Drive:hover {
+    background-color: #3e8e41;
+  }
+
+  #protected-content {
+    display: none;
+    opacity: 95%;
+    width: 35%;
+    margin: 25px auto;
+    background: linear-gradient(to top left, #1E2A5E, #7C93C3);
+    padding: 25px;
+    border: 1px solid #202020;
+    border-radius: 10px;
+    box-shadow: 0 0 60px black;
+  }
+
+ h1 {
+  
+  color: #ffffff;
+  
+ }
+
+  
